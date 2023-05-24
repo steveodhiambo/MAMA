@@ -4,7 +4,7 @@
 
 The project incorporated several key functionalities: it disseminated text-based healthcare messages to mothers, providing essential advice on nutrition and exercises to maintain their health during pregnancy. It also scheduled appointments for these mothers, alerting them via text messages to ensure regular hospital visits. The system further recorded each visit in detail, including vital signs and any additional physician's observations. A registration feature was integrated to systematically monitor the health progression of these mothers.
 
-"Mama" was a significant milestone in fulfilling Millennium Development Goal number 5 - improving maternal health. It empowered mothers in developing countries with vital health information and incentivized them to complete their antenatal visits through organized appointments, reducing the traditional wait times and overcrowding. Summarily, the completed "Mama" project was a crucial initiative aimed at saving lives and achieving a vital global health goal.
+"Mama" aimed to fulfil Millennium Development Goal number 5 - improving maternal health. It was a POC that tried to do this by, empowering mothers in developing countries with vital health information and incentivized them to complete their antenatal visits through organized appointments, reducing the traditional wait times and overcrowding. Summarily, the completed "Mama" project was a crucial initiative aimed at saving lives and achieving a vital global health goal.
 
 # Application Pictures
 ## Homepage
