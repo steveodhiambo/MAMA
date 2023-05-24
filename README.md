@@ -19,8 +19,5 @@ The project incorporated several key functionalities: it disseminated text-based
 ## Add Mothers into system
 ![AddMotherPage](https://github.com/steveodhiambo/MAMA/assets/16764448/bb610ebe-09e9-4713-b321-55006bc39b88)
 
-## List Mothers
-![ListMothers](https://github.com/steveodhiambo/MAMA/assets/16764448/b735355f-70fa-46c0-9915-34577bd87b31)
-
 ## Schedule Visit
 ![ScheduleVisit](https://github.com/steveodhiambo/MAMA/assets/16764448/32291cce-f2a4-43b0-ae97-9e9a41f8dea1)
