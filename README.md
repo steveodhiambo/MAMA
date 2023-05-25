@@ -1,6 +1,6 @@
 # MAMA
 
-"Mama" was an innovative project that sought to improve maternal health, focusing on rural areas where access to antenatal care was notably limited. Conceived in response to the high rate of maternal deaths, the system was developed within a tight time frame of two and a half months with the primary goal of reducing these concerning numbers.
+"Mama" is an innovative project that aims to improve maternal health, by focusing on rural areas where access to antenatal care is notably limited. Conceived in response to the high rate of maternal deaths, the system was developed within a tight time frame of two and a half months with the primary goal of reducing these concerning numbers.
 
 The project incorporated several key functionalities: it disseminated text-based healthcare messages to mothers, providing essential advice on nutrition and exercises to maintain their health during pregnancy. It also scheduled appointments for these mothers, alerting them via text messages to ensure regular hospital visits. The system further recorded each visit in detail, including vital signs and any additional physician's observations. A registration feature was integrated to systematically monitor the health progression of these mothers.
 
